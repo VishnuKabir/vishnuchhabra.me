@@ -1,19 +1,33 @@
 [
+ {
+    "school": "The Ohio State University",
+    "schoolURL": "https://www.osu.edu/",
+    "schoolLogo": "/images/iub.png",
+    "schoolLocation": " 281 W Lane Ave, Columbus, OH 43210",
+    "degree": "PhD",
+    "major": "Computer Science and Engineering",
+    "date": "2022 - Present",
+    "description": "Pursuing a PhD in CSE, with focus on Mech Interp and OOD",
+    "activitiesandsocieties": [
+      "OSU DanceSport Club",
+      "OSU Salsa Club"
+    ]
+  },
   {
-    "school": "Independent University, Bangladesh",
-    "schoolURL": "https://iub.edu.bd/",
+    "school": "University of Minnesota - Twin Cities",
+    "schoolURL": "https://twin-cities.umn.edu/",
     "schoolLogo": "/images/iub.png",
     "schoolLocation": "Plot 16, Aftabuddin Ahmed Road, Block B, Bashnudhara RA, Dhaka 1229, Bangladesh.",
-    "degree": "Bachelor of Science - BS",
-    "major": "Computer Science and Engineering",
-    "minor": "Engineering Mathematics",
-    "date": "2017 - 2021",
-    "description": "Completed Bachelor of Science in CSE with a minor in Engineering Mathematics at IUB in 2021 with a CGPA of 3.64. Participated in extracurricular activities such as hackathons, programming challenges, and olympiads, and represented my university in the ICPC Asia Dhaka Regional competition in 2019. These experiences have helped me develop a strong foundation in computer science and valuable skills.",
+    "degree": "Bachelor of Arts",
+    "major": "Computer Science and Mathematics ",
+    "date": "2012 - 2022",
+    "description": "Completed undergrad with 3.404 GPA and distinguished poster for my thesis",
     "activitiesandsocieties": [
-      "Competitive Programming",
-      "JUKTI - Club of CSE IUB",
-      "IUB ACM Student Chapter",
-      "IEEE Computer Society IUB Student Branch Chapter"
+      "MNQuants",
+      "UMN Rugby Club",
+      "UMN Ballroom Dance Cub"
     ]
   }
+  
+
 ]

@@ -1,37 +1,37 @@
 {
-  "name": "Mir Sazzat Hossain",
-  "designation": "Research Assistant",
+  "name": "Vishnu Kabir Chhabra",
+  "designation": "2nd Year PhD Student",
   "company": {
-    "name": "Center for Computational & Data Sciences",
-    "url": "https://ccds.ai/"
+    "name": "The Ohio State University",
+    "url": "https://cse.osu.edu/"
   },
-  "description": "I am a research assistant at the Center for Computational and Data Sciences (CCDS) at Independent University, Bangladesh (IUB), actively involved in cutting-edge research projects in artificial intelligence, machine learning, and data science. My focus includes computer vision, group theory, manifold learning, and geometric machine learning, with a deep passion for developing innovative solutions that benefit sectors like astronomy, healthcare, and education. \nIn addition to my research responsibilities, I am actively involved in teaching undergraduate students, mentoring, and instructing various courses at IUB. My enthusiasm for learning new data science topics and conducting research drives me to make significant contributions and positively impact others' learning experiences. I am constantly striving to expand my knowledge and expertise in the field, with the ultimate goal of making a meaningful impact through my work.",
+  "description": "I am a second year PhD Student at The Ohio State University, advised by Prof Srinivasan Parthasarathy adn Prof Kannan Athreya. My reseasrch interests include but are not limited to Mechanistic Interpretability, Model Compression and Out-Of-Distribution Detection. I specifically focus on Mechanistic Interpretability. I am highly troubles by the fact that the complex machine learning models that seem to be deployed in out day to day are an unexplained frontier. I work to resolve this deeply troubling fact about our world. My research , very broadly, seeks to solve the AI Allignment pproblem, essentially, I work to align AI models to work with human values. As this is an unexplored frontier, I would love to collaborate on a plethora of issues. Please don't hesitate to reach out to me, in case you want to collaborate or are generally looking to understand more about the field of Mechanistic Interpretability ",
   "socialLinks": [
     {
       "name": "google-scholar",
-      "url": "https://scholar.google.com/citations?user=HriPgEQAAAAJ"
+      "url": "https://scholar.google.com/citations?user=sU2KxpkAAAAJ&hl=en"
     },
     {
       "name": "semantic-scholar",
-      "url": "https://www.semanticscholar.org/author/Mir-Sazzat-Hossain/2220031205"
+      "url": "https://www.semanticscholar.org/author/Vishnu-Chhabra/2190504936"
     },
     {
       "name": "dblp",
-      "url": "https://dblp.org/pid/349/0737.html"
+      "url": "https://dblp.org/pid/339/1940.html"
     },
     {
       "name": "github",
-      "url": "https://github.com/mirsazzathossain"
+      "url": "https://github.com/VishnuKabir"
     },
     {
       "name": "linkedin",
-      "url": "https://linkedin.com/in/mirsazzathossain"
+      "url": "https://linkedin.com/in/vishnu-chhabra1999"
     },
     {
       "name": "twitter",
-      "url": "https://twitter.com/mir_sazzat"
+      "url": "https://twitter.com/chhabra_vishnu"
     }
   ],
-  "resume": "files/mirsazzathossain-cv.pdf",
-  "note": "Seeking PhD opportunities in machine learning and computer vision."
+  "resume": "files/vishnu23.pdf",
+  "note": "Seeking Research Internships for Summer 2024"
 }

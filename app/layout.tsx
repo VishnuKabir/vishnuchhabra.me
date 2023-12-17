@@ -8,13 +8,13 @@ import ClientThemeProvider from "./theme-provider";
 
 export const metadata: Metadata = {
   title: {
-    default: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
-    template: "%s - Mir Sazzat Hossain",
+    default: "Vishnu Chhabra",
+    template: "%s - Vishnu Chhabra",
   },
   description:
-    "Mir Sazzat Hossain is a recent college graduate with a solid foundation in computer science as well as competence in exploratory data analysis, machine learning, computer vision, and statistics. He is currently working as a Research Assistant at the Independent University, Bangladesh's Center for Computational and Data Sciences.",
-  generator: "Mir Sazzat Hossain - Personal Website",
-  applicationName: "Mir Sazzat Hossain - Personal Website",
+    "Vishnu Chhabra - Personal Website",
+  generator: "Vishnu Chhabra - Personal Website",
+  applicationName: "Vishnu Chhabra - Personal Website",
   referrer: "origin-when-cross-origin",
   keywords: [
     "Mir Sazzat Hossain",
@@ -40,25 +40,25 @@ export const metadata: Metadata = {
   ],
   themeColor: "#ffffff",
   colorScheme: "light",
-  creator: "Mir Sazzat Hossain",
-  publisher: "Mir Sazzat Hossain",
+  creator: "Vishnu Chhabra",
+  publisher: "Vishnu Chhabra",
   formatDetection: {
     telephone: true,
     address: true,
     email: true,
   },
   openGraph: {
-    title: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+    title: "Vishnu Chhaba",
     description:
-      "Mir Sazzat Hossain is a recent college graduate with a solid foundation in computer science as well as competence in exploratory data analysis, machine learning, computer vision, and statistics. He is currently working as a Research Assistant at the Independent University, Bangladesh's Center for Computational and Data Sciences.",
+      "Vishnu Chhabra - Personal Website",
     url: `${server}`,
-    siteName: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+    siteName: "Vishnu Chahbra",
     images: [
       {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+        alt: "Vishnu Chhabra",
       },
     ],
     locale: "en_US",
@@ -114,16 +114,16 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@mir_sazzat",
-    title: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+    title: "Vishnu Chhabra",
     description:
-      "Mir Sazzat Hossain is a recent college graduate with a solid foundation in computer science as well as competence in exploratory data analysis, machine learning, computer vision, and statistics. He is currently working as a Research Assistant at the Independent University, Bangladesh's Center for Computational and Data Sciences.",
+      "Vishnu Chhabra - Personal Website",
     creator: "@mir_sazzat",
     images: [
       {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+        alt: "Vishnu Chhabra",
       },
     ],
   },
