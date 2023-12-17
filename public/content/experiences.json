@@ -1,55 +1,52 @@
 [
   {
-    "title": "Research Assistant",
-    "company": "Center for Computational & Data Sciences",
-    "companyURL": "http://ccds.ai/",
+    "title": "Graduate Research Assistant",
+    "company": "The Ohio State University",
+    "companyURL": "https://cse.osu.edu/",
     "companyLogo": "/images/ccds.png",
-    "location": "Plot 16, Aftabuddin Ahmed Road, Block B, Bashnudhara RA, Dhaka 1229, Bangladesh.",
+    "location": "281 W Lane Ave, Columbus, OH 43210",
     "type": "Full-time",
-    "date": "Feb 2022 - Present",
-    "description": "At CCDS, my responsibilities include participating in research projects and generating new research ideas in the fields of computational science, artificial intelligence, and data science. I am also responsible for studying and implementing new algorithms, as well as understanding advanced mathematical and statistical concepts.",
+    "date": "May 2022 - Present",
+    "description": "Research Focus: Machine Learning For Wireless Communication, Mechanistic Interpretability, Out-Of-Distribution Detection",
     "skills": [
       "Artificial Intelligence (AI)",
       "Machine Learning",
       "Artificial Neural Networks",
       "Data Science",
-      "Image Processing",
-      "Computer Vision",
       "Deep Learning"
     ]
   },
   {
     "title": "Teaching Assistant",
-    "company": "Independent University, Bangladesh",
-    "companyURL": "https://iub.edu.bd/",
+    "company": "University of Minnesota - Twin Cities",
+    "companyURL": "https://twin-cities.umn.edu/",
     "companyLogo": "/images/iub.png",
-    "location": "Plot 16, Aftabuddin Ahmed Road, Block B, Bashnudhara RA, Dhaka 1229, Bangladesh.",
+    "location": " Minneapolis, MN 55455",
     "type": "Part-time",
-    "date": "Sep 2021 - Jan 2022",
-    "description": "As a teaching assistant at IUB, I had the opportunity to collaborate with an assistant professor and teach a lab course on numerical methods. My responsibilities included introducing students to numerical approaches, demonstrating their application using Python, and redesigning the lab materials to be compatible with Python.",
+    "date": "Sep 2021 - May 2022",
+    "description": "Teaching Assitant for JAVA ( CSCI 1903/193) and OCaml (CSCI 2041).",
     "skills": [
-      "Numerical Methods",
-      "Numpy",
-      "Teaching",
-      "Management",
-      "Leadership"
+      "Data Structures and Algorithms",
+      "Java",
+      "Grading",
+      "Ocaml",
+      "Remote Teaching"
     ]
   },
   {
-    "title": "Undergraduate Teaching Assistant",
-    "company": "Independent University, Bangladesh",
-    "companyURL": "https://iub.edu.bd/",
+    "title": "Software Engineering Intern",
+    "company": "Scriptulate",
+    "companyURL": "https://scriptulate.com/",
     "companyLogo": "/images/iub.png",
-    "location": "Plot 16, Aftabuddin Ahmed Road, Block B, Bashnudhara RA, Dhaka 1229, Bangladesh.",
-    "type": "Part-time",
-    "date": "Oct 2019 - Dec 2019",
-    "description": "As an undergraduate teaching assistant at IUB, I worked as a part-time tutor at the Math Tutorial Center, providing support to struggling students and managing the center. This experience allowed me to develop my skills in assisting students with their academic difficulties and gain valuable teaching experience.",
+    "location": "Washington DC",
+    "type": "Full- Time",
+    "date": "May 2021 - Aug 2021",
+    "description": "Setting up the core infrastructure for the startup, including setting up the core databases. Performed Data Analysis for clients",
     "skills": [
-      "Linear Algebra",
-      "Statistics",
-      "Differential Equations",
-      "Vector Calculus",
-      "Mathematical Modeling"
+      "Google BigQuery",
+      "NoSQL",
+      "Java",
+      "Knowledge Graphs"
     ]
   }
 ]
